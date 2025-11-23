@@ -1,0 +1,16 @@
+{
+  "name": "Jupiverse #738",
+  "symbol": "OIA",
+  "description": "An exclusive digital collectible from the $JUР for swaps. Unlock unique benefits and join the pack",
+  "image": "https://raw.githubusercontent.com/ebro222111/1333333333/refs/heads/main/Picsart_25-11-23_18-22-37-494.png", 
+  "external_url": "",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/ebro222111/1333333333/refs/heads/main/Picsart_25-11-23_18-22-37-494.png", "type": "image/png" }
+    ],
+    "creators": [
+      { "address": "DCQnfUH6mHA333mzkU22b4hMvyqcejUBociodq8bB5HF", "share": 100 }
+    ]
+  }
+}
